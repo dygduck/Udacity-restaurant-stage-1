@@ -13,7 +13,7 @@ For the **Restaurant Reviews** projects, a static webpage code for the project w
 
 First clone this project:
 
-$ git clone https://github.com/stearruda/restaurant-reviews-app-stage-1.git
+$ git clone https://github.com/dygduck/Udacity-restaurant-stage-1
 
 In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
 
